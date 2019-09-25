@@ -1,0 +1,201 @@
+mobil
+write
+lengthi
+worth 2
+impecc
+black
+verifi
+excep
+provid
+amiabl
+oblig
+write
+seek
+genuin
+compel
+write
+impress 3
+grand 3
+satisfi
+consid
+lucki
+read
+work
+expect
+left
+content
+steadi
+initi
+mention
+initi
+blank
+power
+made
+reboot
+love 3
+back
+put
+fulli
+charg
+unplug
+haywir
+random
+shut
+convinc
+prolong
+worth 2
+grand 3
+multitask
+low
+peculiar
+piss -4
+make
+handl
+request
+luckili
+read
+found
+help 2
+help 2
+send
+fail -2
+honest 2
+black
+verifi
+deni
+spoke
+horribl
+repeatedli
+told
+rude
+told
+dare
+rude
+want 1
+inevit
+transfer
+rotten
+refus
+transfer
+handl
+extrem
+rude
+speak
+threaten -2
+disconnect
+stop -1
+talk
+made
+put
+real
+mention
+wrong -2
+replac
+replac
+don
+make
+instal
+write
+bui
+bui
+read
+found
+help 2
+help 2
+send
+fail -2
+woth
+black
+verifi
+amaz
+interest 1
+bui
+don
+found
+common
+suppos
+hot
+big 1
+fulli
+charg
+good 3
+remain
+indoor
+outdoor
+pretti
+good 3
+profession
+quick
+charg
+take
+roughli
+complet
+quick
+charg
+support 2
+fast
+pretti
+decent
+ensur
+don
+whatsoev
+won 3
+pretti
+decent
+clear 1
+phenomen
+whatsoev
+promis
+read
+found
+help 2
+help 2
+send
+fail -2
+newest
+write
+recent
+suggest
+cancel -1
+don
+anymor
+worst -3
+read
+publish
+perfectli
+apprehens
+bui
+overh
+heard
+perfectli
+nice 3
+read
+publish
+starsfiv
+publish
+good 3
+quickli
+publish
+mobil
+worst -3
+mobil
+work
+properli
+poor -2
+publish
+nice 3
+publish
+publish
+mobil
+worst -3
+publish
+fast
+nice 3
+perfect 3
+publish
+bui
+pathet
+work
+neg
+publish
+Polarity = 33
